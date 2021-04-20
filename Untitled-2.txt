@@ -1,0 +1,2 @@
+>>> tsc objects.ts
+>>> node objects.js
